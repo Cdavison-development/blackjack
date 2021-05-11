@@ -1,6 +1,4 @@
-/**
- * @author Taylor Byrne
- **/
+
 import java.util.Random;
 public class Cards
 {
