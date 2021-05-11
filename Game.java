@@ -1,6 +1,4 @@
-/**
- * @author cameron davison
- */
+
 
 import java.util.Scanner;
 
