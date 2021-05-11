@@ -1,6 +1,4 @@
-/**
- * @authors Cameron Davison & Taylor Byrne
- */
+
 import java.util.Random;
 
 public class dealer {
