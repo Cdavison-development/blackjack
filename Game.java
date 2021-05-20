@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Game {
 
     Cards c = new Cards();
-    dealer d = new dealer();
     Scanner scan = new Scanner(System.in);
     int dealerNewHand;
     String dealerHandText;
